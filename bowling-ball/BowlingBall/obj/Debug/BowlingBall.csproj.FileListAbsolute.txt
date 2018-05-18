@@ -1,0 +1,6 @@
+C:\Users\spaladugu\Downloads\code-starter-kits-master\bowling-ball\BowlingBall\bin\Debug\BowlingBall.dll
+C:\Users\spaladugu\Downloads\code-starter-kits-master\bowling-ball\BowlingBall\bin\Debug\BowlingBall.pdb
+C:\Users\spaladugu\Downloads\code-starter-kits-master\bowling-ball\BowlingBall\obj\Debug\BowlingBall.csprojResolveAssemblyReference.cache
+C:\Users\spaladugu\Downloads\code-starter-kits-master\bowling-ball\BowlingBall\obj\Debug\BowlingBall.csproj.CoreCompileInputs.cache
+C:\Users\spaladugu\Downloads\code-starter-kits-master\bowling-ball\BowlingBall\obj\Debug\BowlingBall.dll
+C:\Users\spaladugu\Downloads\code-starter-kits-master\bowling-ball\BowlingBall\obj\Debug\BowlingBall.pdb
